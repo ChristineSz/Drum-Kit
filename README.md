@@ -10,7 +10,7 @@ What have I learned :
 
 - -To use Callback Function -a function that gets past in as an input (alows us to wait to somhing to finish, to happening.
 
-    -in our code waiting for a ckick event and then the callback function gets called back and executed.
+    -in our code waiting for a click event and then the callback function gets called back and executed.
 
 - -To use Debugging -use the debugger keyword to debugg the code-to see how the code works behind the scene
 
