@@ -1,20 +1,21 @@
 body {
   text-align: center;
-  background-color: #ffacb7;
-  /* #283149;*/
+  background-color:#6886c5;
+  /* #ffacb7;*/
+
 }
 
 h1 {
   font-size: 5rem;
-  color: #6886c5;
-  /*#DBEDF3;*/
+  color:  #035aa6;
+
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
 
 }
 
 footer {
-  color: #6886c5;
+  color: #035aa6;
   font-family: sans-serif;
 }
 
@@ -61,7 +62,7 @@ footer {
 
 .drum {
   outline: none;
-  border: 10px solid #6886c5;
+  border: 10px solid #035aa6;
   /*#404B69;*/
   font-size: 5rem;
   font-family: 'Arvo', cursive;
